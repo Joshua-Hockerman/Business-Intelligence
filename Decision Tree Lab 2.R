@@ -26,4 +26,4 @@ MAE <- function(actual, predicted){
   mean(abs(actual~predicted))
 }
 
-MAE(wine_test$quality,p.)
+MAE(wine_test$quality,)
